@@ -3,7 +3,7 @@
 - Subject: Introduction to tvOS Development, using Swift 3
 - Date: April 27, 2017
 - Location: Columbia iOS Development Meetup at Thorn Technologies, LLC
-- Meetup: https://www.meetup.com/Columbia-iOS-Development-Meetup/
+- Communities: https://www.meetup.com/Columbia-iOS-Development-Meetup/
 - Slides: https://www.slideshare.net/maycer/introduction-to-tvos-using-swift-3-75434414
 
 ## What's covered
